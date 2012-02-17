@@ -1,0 +1,23 @@
+PHP-Codeigniter code sample
+
+
+This is an underdevelopment demo for a Realestate sample portal using PHP-Codeigniter MVC framework.
+The demo provides a cool experience of a Full-Ajax form load and instant ajax form validation without using any iframes nor page reloads.
+
+
+A live demo for the control panel:
+User email : himalking@hotmail.com
+Password   : hima1234
+http://www.chilloutpufs.com/re/
+alternative
+http://estore.net76.net/realestate/
+
+
+A GLIMPSE:
+Once you create a Project you can define Units in it and update its data, images, videos, files, and links.
+Same goes for Units.
+
+
+NOTE:
+You may encounter a decreased performance due to using FREE hosting along with the difference between the database hosting server (db4free.net) and the control panel hosting server (000webhost.com).
+However in "Realestate_Demo_Full_Source.zip" you will find the full source for the demo along with a readme file describing how to configure and deploy the files on your localhost or publishing server.
